@@ -10,3 +10,4 @@
 - Low level programming
   - x86
 - Computer network
+- ja: [my blog](https://krazy.tokinia.me)
