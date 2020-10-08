@@ -3,10 +3,10 @@
 
 ## Interested
 - Building your own XXX
+- Rust
 - Programming language
   - Basic theory
-  - Compiler, Interpreter
-    - Optimization
+  - Compiler/Interpreter
 - Low level programming
   - x86
 - Computer network
