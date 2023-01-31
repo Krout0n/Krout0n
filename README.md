@@ -3,6 +3,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Krout0n)](https://github.com/anuraghazra/github-readme-stats)
 
+# Hire me as a typo finder!
 
 ## Interested
 - Building your own XXX
